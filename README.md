@@ -16,7 +16,8 @@
  <p align="center">
     <img src="https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-21-42/6378.figure_5F00_3_5F00_nvic.jpg" width="400">
 </p>
-# Robotic manipulator in 3D space SK
+
+# Priestorovy manipulator SK
 - Dopredná kinematika pre manipulátor
 - Inverzná kinematika pre manipulátor
 - Vyhýbanie sa prekážkam
