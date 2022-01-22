@@ -53,5 +53,5 @@ V panely s názvom DOPREDNÁ je možné dosadiť hodnoty pre uhly natočenia q1,
 </p>
 
  <p align="center">
-    <img src="https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-21-42/6378.figure_5F00_3_5F00_nvic.jpg" width="400">
+    <img src="https://user-images.githubusercontent.com/91337423/150652859-f18701fa-2d6a-420d-8bc1-45e5ad0b751f.PNG" width="400">
 </p>
