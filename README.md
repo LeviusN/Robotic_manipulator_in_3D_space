@@ -32,8 +32,8 @@
 zapísať θ = f-1(x).
 Pre výpočet inverznej kinematiky je použitý jacobian, avšak využitá je numerická derivácia v jacobiane. Analitická derivácia by bola náročná, náchylná na chyby.
 Funkcia inverznej kinematiky má ako vstup začiatočné natočenia ramien Q.
-Zvoli sa:
--- krok pre deriváciu dq
+- Zvoli sa:
+1) krok pre deriváciu dq
 -- dĺžky ramien L
 -- bod, do ktorého chceme, aby sa rameno dostalo Xini
 -- maximálny počet iterácií i_max
