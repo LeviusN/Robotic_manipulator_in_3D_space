@@ -44,14 +44,14 @@ Funkcia inverznej kinematiky má ako vstup začiatočné natočenia ramien Q.
 - Na vyhýbanie prekážok sú využité funkcie z predošlých dvoch kapitol a to dopredná kinematika a inverzná kinematika. Ďalej je využitá metóda gradient descent. Je to optimalizačný iteračný algoritmus na hľadanie lokálnych miním danej funkcie. Na nájdenie lokálneho minima funkcie sa používajú proporcionálne kroky negatívnej hodnoty gradientu.
 
 ## GUI aplikácia
--Užívateľské rozhranie bolo spravené ako GUI program v MATLABE. Na obrázkoch 2 až 5 sú vysvetlené jednotlivé funkcie programu pre RRRR manipulátor.
+- Užívateľské rozhranie bolo spravené ako GUI program v MATLABE. Na obrázkoch 2 až 5 sú vysvetlené jednotlivé funkcie programu pre RRRR manipulátor.
 Na pravej strane je pole so simulovaným RRRR manipulátorom. Na ľavej strane sú panely na zadávanie jednotlivých hodnôt a na spúšťanie funkcií programu.
 V panely s názvom DOPREDNÁ je možné dosadiť hodnoty pre uhly natočenia q1,q2,q3,q4. Stlačením tlačidla DOPREDNÁ získame doprednú kinematiku manipulátora, ktorá sa zobrazí na pravom panely. Jednou z pomôcok tohto programu je vykreslenie pracovného priestoru (priestor, v ktorom sa môže pohybovať rameno). Stlačením tlačidla Pracovná Plocha a následne vybratím jednej z funkcií sa zobrazí pracovný priestor guľovitého tvaru. Na získanie inverznej kinematiky k danému bodu, ktorý zadáme na panely Ciel je potrebné stlačiť tlačidlo INVERZNA. Nakoniec je možné zadať tri body, ako prekážky v pracovnom priestore RRRR manipulátoru. Daná funkcia sa spustí stlačením tlačidla TRAJEKTORIA. Avšak je potrebné zadať aj bod, kam sa má dostať dané rameno.
 
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/91337423/150652824-a864c91f-7feb-4e4f-9353-15716608c5e2.PNG" width="400">
+    <img src="https://user-images.githubusercontent.com/91337423/150652824-a864c91f-7feb-4e4f-9353-15716608c5e2.PNG" width="500">
 </p>
 
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/91337423/150652859-f18701fa-2d6a-420d-8bc1-45e5ad0b751f.PNG" width="400">
+    <img src="https://user-images.githubusercontent.com/91337423/150652859-f18701fa-2d6a-420d-8bc1-45e5ad0b751f.PNG" width="500">
 </p>
