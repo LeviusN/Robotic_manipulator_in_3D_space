@@ -49,7 +49,7 @@ Na pravej strane je pole so simulovaným RRRR manipulátorom. Na ľavej strane s
 V panely s názvom DOPREDNÁ je možné dosadiť hodnoty pre uhly natočenia q1,q2,q3,q4. Stlačením tlačidla DOPREDNÁ získame doprednú kinematiku manipulátora, ktorá sa zobrazí na pravom panely. Jednou z pomôcok tohto programu je vykreslenie pracovného priestoru (priestor, v ktorom sa môže pohybovať rameno). Stlačením tlačidla Pracovná Plocha a následne vybratím jednej z funkcií sa zobrazí pracovný priestor guľovitého tvaru. Na získanie inverznej kinematiky k danému bodu, ktorý zadáme na panely Ciel je potrebné stlačiť tlačidlo INVERZNA. Nakoniec je možné zadať tri body, ako prekážky v pracovnom priestore RRRR manipulátoru. Daná funkcia sa spustí stlačením tlačidla TRAJEKTORIA. Avšak je potrebné zadať aj bod, kam sa má dostať dané rameno.
 
  <p align="center">
-    <img src="https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-21-42/6378.figure_5F00_3_5F00_nvic.jpg" width="400">
+    <img src="https://user-images.githubusercontent.com/91337423/150652824-a864c91f-7feb-4e4f-9353-15716608c5e2.PNG" width="400">
 </p>
 
  <p align="center">
