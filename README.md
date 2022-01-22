@@ -37,7 +37,7 @@ Funkcia inverznej kinematiky má ako vstup začiatočné natočenia ramien Q.
 6) stanovenie chyby err
 
  <p align="center">
-    <img src="https://github.com/LeviusN/VRS_robot2/issues/1#issue-1111664529" width="400">
+    <img src="https://user-images.githubusercontent.com/91337423/150652885-cb0341ef-f265-49e0-a5ee-b41751624627.PNG" width="400">
 </p>
 
 ## Vyhýbanie sa prekážkam
