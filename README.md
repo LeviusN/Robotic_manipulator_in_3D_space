@@ -11,7 +11,7 @@
 ## Avoiding obstacles
 
 ## GUI application
- 
+- Main program to run is RRRR_program.m
 
 # Priestorovy manipulator SK
 - Dopredná kinematika pre manipulátor
